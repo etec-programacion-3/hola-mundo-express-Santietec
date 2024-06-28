@@ -1,24 +1,25 @@
+Santiago Marthi
 # hola-mundo-express
 ## Run Locally  
-Clone the project  
+Clonar el proyecto
 
 ~~~bash  
-  git clone ssh link-to-project
+  git clone enlace-ssh-al-proyecto
 ~~~
 
-Go to the project directory  
+Ir al directorio del proyecti
 
 ~~~bash  
-  cd my-project
+  cd mi-proyecto
 ~~~
 
-Install dependencies  
+Instalar dependencias
 
 ~~~bash  
 npm install
 ~~~
 
-Start the server  
+Empezar el servidor
 
 ~~~bash  
 npm run dev
